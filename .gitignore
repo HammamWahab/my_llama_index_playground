@@ -1,0 +1,7 @@
+.env 
+.venv
+html
+data 
+lib 
+.DS_Store
+*__pycahche__*
